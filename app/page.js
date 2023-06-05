@@ -7,8 +7,9 @@ export default function Home() {
     return (
         <>
             <Header />
-            <LotteryEntrance />
-            <main>Page js</main>
+            <main>
+                <LotteryEntrance />
+            </main>
         </>
     );
 }
